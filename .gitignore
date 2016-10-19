@@ -1,3 +1,6 @@
 *.idea
-*.db
-*.pyc
+
+# Byte-compiled / optimized / DLL files / Database
+__pycache__/
+*.py[cod]
+*.sqlite3
